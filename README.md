@@ -39,7 +39,7 @@ The pipeline created for this project processes images in the following steps:
 [image5]: output_images/color_thred.png "Color Threshold"
 [image6]: output_images/grad_thred.png "Gradient Threshold"
 [image7]: output_images/combine_thred.png "Combined Threshold"
-[image8]: output_images/fit_polunomial.png "Fit Polynomial"
+[image8]: output_images/fit_polynomial.png "Fit Polynomial"
 [image9]: output_images/projected_lanes.png "Projected Lanes"
 [video1]: output_images/project_video.gif "Video"
 [video2]: output_images/challenge_video.gif "Video"
